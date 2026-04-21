@@ -4,7 +4,7 @@
 ###Project Overview
 This project involves a comprehensive analysis of K-Store's annual data to identify sales trends, customer demographics, and channel performance. The goal was to provide actionable insights that help the business improve its sales strategy for the upcoming year.
 
-####Key Questions Answered (Business Problems)
+##Key Questions Answered (Business Problems)
 •	Which months saw the highest and lowest sales/orders?
 •	Who are our primary customers (Gender and Age Group)?
 •	Which sales channels (Amazon, Flipkart, Myntra, etc.) contribute most to the revenue?
